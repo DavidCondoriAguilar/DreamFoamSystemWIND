@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProyDreamFoam_ADO\ProyDreamFoam_ADO.csproj" />
+    <ProjectReference Include="..\ProyDreamFoam_BE\ProyDreamFoam_BE.csproj" />
+  </ItemGroup>
+
+</Project>

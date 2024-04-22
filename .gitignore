@@ -1,0 +1,5 @@
+# Archivos y directorios específicos de Visual Studio
+.vs/
+*.suo
+*.user
+*.vscode/
